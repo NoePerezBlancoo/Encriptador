@@ -1,0 +1,38 @@
+main {
+    justify-content: flex-start;
+    padding: 4rem 5rem;
+}
+
+.contenedor-izq {
+    height: 40rem;
+    justify-content: space-around;
+}
+
+.input-texto {
+    width: 85%;
+    height: 75%;
+    font-size: 1.8rem;
+    margin-top: 3rem;
+}
+
+.container-btns {
+    flex-direction: row;
+    margin-top: 3rem;
+}
+
+.b-encriptar {
+    margin-right: 2rem;
+}
+
+.b-desencriptar {
+    margin-right: 2rem;
+}
+
+.contenedor-der {
+    height: 26rem;
+    box-shadow: 0 4px 4px lightgrey;
+}
+
+footer {
+    margin-bottom: 2rem;
+}
